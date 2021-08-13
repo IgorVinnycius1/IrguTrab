@@ -1,0 +1,18 @@
+1) A função desse site é bem executada?
+A função é sim bem executada
+
+2) Você encontrou algum fime interessante que passe nesse teste? Informe.
+Enola Holmes. Não é difícil entender o porquê, pois o filme tem esse propósito mostrar o poder da mulher
+
+3) Você encontrou algum fime interessante que não passe nesse teste? Informe.
+Sim, "Até o último homem", mas eu entendo o motivo dele não passar no teste pois é um filme voltado a fé e a segunda guerra mundial
+
+4) Visualmente o site é fraco. Isso é uma afirmação.
+Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
+
+O site, no quesito funcionalidade, cumpre o objetivo, contudo, no quesito design ele pode acabar não fazendo o gosto e até não agradando alguns usuários.
+O site possui um layout muito levado a esquerda com fonte pequena, onde o conteúdo principal não é centralizado e não é chamativo para o user. 
+Algo também que pode ser prejudicial a quem está utilizando é a falta de uma barra de pesquisa (neste caso, a quase ausência dela), já que muitos iriam ficar exaustos apenas procurando um filme específico
+Uma boa paleta de cores poderia ser usada para ser atrativo
+Um fato muito interessante é que os usuários podem falar sobre os filmes e se eles passaram no teste ou não
+Algumas das informações do site, como o "About", poderiam ser colocadas em outra página ligada por uma barra de menu
